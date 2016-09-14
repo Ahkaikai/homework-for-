@@ -1,0 +1,7 @@
+#include<stream>
+
+int main()
+{
+  printf("helloworld!i am testing");
+  return 0;
+}
